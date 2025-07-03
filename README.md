@@ -1,0 +1,2 @@
+# CropDoc-HARNESSING-TENSORFLOW-FOR-EARLY-DETECTION-AND-PREDICTION-OF-CROP-DISEASES
+CropDoc is an AI-driven tool built with TensorFlow that helps detect and predict crop diseases from plant images. The goal is to give farmers and agricultural experts early warnings, so they can take action before it's too late. By using deep learning, CropDoc makes plant health monitoring faster, smarter, and more accessible.
